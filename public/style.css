@@ -1,0 +1,22 @@
+body {
+    background-color: #edfcff;
+
+}
+
+a {
+    text-decoration: none;
+    color: #1f2347;
+}
+
+#welcome-message {
+    text-align: center;
+    font-size: 30px;
+    color: #1f2347;
+}
+
+#about-link {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    color: #1f2347;
+}
